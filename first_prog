@@ -1,4 +1,6 @@
 import numpy as np
+import math
+
 
 
 def first_function (x):
