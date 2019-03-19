@@ -6,3 +6,8 @@ import math
 def first_function (x):
     return x**5
     
+def reisse_function(x):
+    return 0
+    
+    
+    
